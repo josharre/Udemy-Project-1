@@ -26,3 +26,7 @@ li {
 .webtext {
   border: 5px dashed green;
 }
+
+.active {
+  color: red;
+}
