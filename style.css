@@ -17,7 +17,7 @@ h2 {
 
 p {
   color: #aa4139;
-  text-align: center;
+  text-align: left;
   border: 5px solid rgba(255,176,170,0.5);
   cursor: pointer;
 }
