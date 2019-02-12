@@ -20,6 +20,11 @@ h2, p {
 
 p {
   color: purple;
+  line-height: 50px;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 180%;
+  font-family: "Times New Roman", Georgia;
 }
 
 li {
