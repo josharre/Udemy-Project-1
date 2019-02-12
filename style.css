@@ -34,6 +34,10 @@ img {
   float: right;
 }
 
+footer {
+  clear: both;
+}
+
 li {
   list-style: none;
   display: inline-block;
