@@ -11,7 +11,11 @@ body {
   background-size: cover;
 }
 
-h2, p {
+h2 {
+  color: red;
+}
+
+p {
   color: #aa4139;
   text-align: center;
   border: 5px solid rgba(255,176,170,0.5);
@@ -19,7 +23,6 @@ h2, p {
 }
 
 p {
-  color: purple;
   line-height: 50px;
   font-style: italic;
   font-weight: bold;
@@ -27,12 +30,16 @@ p {
   font-family: "Times New Roman", Georgia;
 }
 
+img {
+  float: right;
+}
+
 li {
   list-style: none;
   display: inline-block;
 }
 
-.webtext {
+.webtext:first-child {
   border: 5px dashed green;
 }
 
